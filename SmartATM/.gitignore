@@ -1,0 +1,10 @@
+
+/bin/
+*.class
+.project
+.classpath
+.settings/
+.DS_Store
+Thumbs.db
+.env
+*.properties
