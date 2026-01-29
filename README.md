@@ -1,1 +1,1 @@
-
+SmartATM is a console-based ATM application developed using Core Java. It simulates real-world banking operations such as user authentication, deposits, withdrawals, mini statements, OTP verification, and email notifications. The project demonstrates strong understanding of object-oriented programming, exception handling, collections, and secure credential management.
